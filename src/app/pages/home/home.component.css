@@ -53,3 +53,17 @@
     display: none;
 }
 
+.streamlit-button {
+    background-color: rgb(222, 205, 173);
+    color: rgb(55, 91, 107);
+    border: none;
+    border-radius: 15px;
+    padding: 20px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none; /* Remove default link underline */
+}
+
+.streamlit-button:hover {
+    background-color: #afb7ba; /* Darken the background color on hover */
+}
