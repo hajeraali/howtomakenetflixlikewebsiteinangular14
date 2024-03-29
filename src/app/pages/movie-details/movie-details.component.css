@@ -1,26 +1,27 @@
 img{
     width: 100%;
     height: auto;
+    border-radius: 10%;
 }
 
 h1
 {
-    color: #ffffff;
+    color: #BCA37F;
     font-weight: bold;
 }
 
 p{
-    color: #ffffff;
+    color: #FFF2D8;
 }
 
 a{
-    background-color: #E50914;
-    color: #ffffff;
+    background-color: #EAD7BB;
+    color: #113946;
     text-decoration: none;
 }
 
 a:hover{
-    background-color: #E50914;
-    color: #ffffff;
-    border: 2px solid #ffffff;
+    background-color: #376071;
+    color: #e8dddd;
+    border: 2px solid #c9b9b9;
 }

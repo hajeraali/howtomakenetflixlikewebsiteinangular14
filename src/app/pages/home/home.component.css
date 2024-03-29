@@ -1,24 +1,24 @@
 .carousel-inner
 {
-    height: 700px;
+    height: 600px;
 }
 
 .carousel-inner .carousel-item img
 {
-    height: 700px;
+    height: 600px;
     object-fit: cover;
 }
 
 .carousel-caption h2
 {
-    color: #E50914;
+    color: #EAD7BB;
     font-weight: bold;
     font-size: 30px;
 }
 
 .carousel-caption p 
 {
-    color: #ffffff;
+    color: #FFF2D8;
 }
 
 .rowposter{
@@ -35,6 +35,7 @@
     box-sizing: content-box;
     transition: transform 450ms;
     margin-right: 7px;
+    border-radius: 10%;
 }
 
 .rowimg:hover
@@ -51,3 +52,4 @@
 {
     display: none;
 }
+

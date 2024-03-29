@@ -6,7 +6,10 @@
 }
 
 body{
-    font-family: 'Ubuntu', sans-serif;
-    background-color: #000000;
+    font-family: monospace;
+    font-weight: 900;
+    
+    
+    background-color: #113946;
     overflow-x: hidden;
 }
